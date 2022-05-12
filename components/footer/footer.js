@@ -13,7 +13,7 @@ function Footer() {
 	return (
 		<div className={styles.mainDiv}>
 			<Typography className={styles.footerText}>
-				Web: Marcel &apos;Zetty&apos; Mikosza, UI/UX: Muteeb Mehraj
+				Web: mikoszamar@gmail.com, UI/UX: Muteeb Mehraj
 			</Typography>
 		</div>
 	);
