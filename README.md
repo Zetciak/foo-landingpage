@@ -2,6 +2,8 @@
 
 ## Authors
 
-Code: Zetty (mikoszamar@gmail.com)\n
+Code: Zetty (mikoszamar@gmail.com)
+https://github.com/Zetciak
+
 UI/UX: Muteeb Mehraj
 https://www.figma.com/community/file/1082654572769267744
